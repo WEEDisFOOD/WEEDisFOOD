@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @WEEDisFOOD
-- 👀 I’m interested in Cardano!
-- 🌱 I’m currently learning how to build a blockchain-based game and also trying to keep up with the advancements in Cardano governance.
+- 👋 Hi, I’m Van from WEED Stake Pool
+- 👀 I’m interested in learning about Cardano and sharing the knowledge I acquire!
 - 💞️ I’m looking to collaborate on projects that will benefit the CardanoWeed [WEED] delegators. STAKE. SMOKE. EARN.
 - 📫 You can reach me on the bird app, @CardanoWEED.
 
