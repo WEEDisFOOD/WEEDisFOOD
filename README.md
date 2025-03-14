@@ -1,7 +1,4 @@
-- 👋 Hi, I’m Van from WEED Stake Pool
-- 👀 I’m interested in learning about Cardano and sharing the knowledge I acquire!
-- 💞️ I’m looking to collaborate on projects that will benefit the CardanoWeed [WEED] delegators. STAKE. SMOKE. EARN.
-- 📫 You can reach me on the bird app, @CardanoWEED.
+Hi, my name is Reginald Archibald Simmons.
 
 <!---
 WEEDisFOOD/WEEDisFOOD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
